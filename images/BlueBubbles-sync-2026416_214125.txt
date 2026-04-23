@@ -1,0 +1,994 @@
+Full sync is starting...
+Reloading your contacts...
+Fetching chats from the server...
+Received 982 chat(s) from the server!
+Saving chunk of 200 chat(s)...
+Saving chunk of 4 message(s) for chat: +86 192 7591 8091
+Deleting chat: +1 927-591-8091 (skip empty chats was selected)
+Saving chunk of 25 message(s) for chat: ensiezadi@gmail.com
+Deleting chat: 241020055@fzu.edu.cn (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 156 9252 3824
+Saving chunk of 1 message(s) for chat: +86 1068478353020169
+Saving chunk of 1 message(s) for chat: +86 10688766000119
+Saving chunk of 1 message(s) for chat: +86 10686463302051015
+Saving chunk of 1 message(s) for chat: +86 130 3601 0684
+Saving chunk of 1 message(s) for chat: +86 156 9250 8943
+Saving chunk of 1 message(s) for chat: +86 156 9252 3542
+Saving chunk of 1 message(s) for chat: +86 106943971001798
+Saving chunk of 1 message(s) for chat: +86 10694089640212305
+Saving chunk of 1 message(s) for chat: +86 106947898037976
+Saving chunk of 1 message(s) for chat: +86 1069299431463610
+Saving chunk of 2 message(s) for chat: +86 10687722121519
+Saving chunk of 2 message(s) for chat: +86 106897930000357
+Saving chunk of 1 message(s) for chat: +86 156 9252 4965
+Saving chunk of 1 message(s) for chat: +86 106942340000273
+Saving chunk of 1 message(s) for chat: 1068262713110814882
+Saving chunk of 1 message(s) for chat: 10681577631900000002
+Saving chunk of 1 message(s) for chat: +86 106938845308723
+Saving chunk of 2 message(s) for chat: +86 106911021002698
+Saving chunk of 1 message(s) for chat: +86 106946948001394
+Saving chunk of 1 message(s) for chat: 1068279701471933223
+Saving chunk of 1 message(s) for chat: +86 1069147707105489
+Saving chunk of 1 message(s) for chat: +86 10692722519144
+Saving chunk of 1 message(s) for chat: +86 10681741519572
+Saving chunk of 1 message(s) for chat: +86 1068311460000048
+Deleting chat: 10684020969310210183 (skip empty chats was selected)
+Saving chunk of 2 message(s) for chat: +86 10681467100553
+Saving chunk of 1 message(s) for chat: +86 10692722519140
+Saving chunk of 1 message(s) for chat: +86 106897930000748
+Saving chunk of 1 message(s) for chat: +86 106855900954953
+Saving chunk of 1 message(s) for chat: 10688516070000000367
+Saving chunk of 1 message(s) for chat: 10687452213725374169
+Saving chunk of 1 message(s) for chat: 10687692800000519710
+Saving chunk of 3 message(s) for chat: 1068143662030388326
+Saving chunk of 1 message(s) for chat: +86 106885401220852
+Saving chunk of 1 message(s) for chat: +86 10692084841007
+Saving chunk of 3 message(s) for chat: +86 10692722315282
+Saving chunk of 1 message(s) for chat: 10681483890000000431
+Saving chunk of 1 message(s) for chat: +86 106874178201624
+Saving chunk of 1 message(s) for chat: 106842267716165416
+Saving chunk of 1 message(s) for chat: +86 106823745015625
+Deleting chat: +86 1068455702016079 (skip empty chats was selected)
+Saving chunk of 6 message(s) for chat: +86 106942340004848
+Saving chunk of 1 message(s) for chat: 1068369112512150077
+Saving chunk of 1 message(s) for chat: +86 106867728201624
+Saving chunk of 1 message(s) for chat: 10684226771612803213
+Saving chunk of 5 message(s) for chat: 10684186631900000002
+Saving chunk of 1 message(s) for chat: +86 185 0284 8447
+Saving chunk of 1 message(s) for chat: +86 10684314720012006
+Saving chunk of 1 message(s) for chat: +86 1068502971690027
+Saving chunk of 1 message(s) for chat: +86 1068336025395
+Saving chunk of 1 message(s) for chat: 10683861220000009923
+Saving chunk of 1 message(s) for chat: 106848370006170014
+Saving chunk of 1 message(s) for chat: +86 10685590013539
+Saving chunk of 1 message(s) for chat: +86 106814270003336
+Saving chunk of 1 message(s) for chat: +86 1069147707104667
+Saving chunk of 1 message(s) for chat: 106827322102478001
+Saving chunk of 1 message(s) for chat: +86 10684314720011110
+Saving chunk of 1 message(s) for chat: 106842265503082034
+Saving chunk of 1 message(s) for chat: 10683481628725688842
+Saving chunk of 1 message(s) for chat: +86 156 9251 2430
+Saving chunk of 1 message(s) for chat: 106838852107502001
+Saving chunk of 1 message(s) for chat: 1068144800000001450
+Saving chunk of 1 message(s) for chat: +86 10692708402257641
+Deleting chat: 10694979700000000183 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 1068205457961400
+Saving chunk of 1 message(s) for chat: 1069239462030281273
+Saving chunk of 2 message(s) for chat: +86 1068481310014397
+Saving chunk of 1 message(s) for chat: +86 106827322104316
+Saving chunk of 2 message(s) for chat: +86 106927802100007
+Saving chunk of 1 message(s) for chat: 10686080370340954430
+Saving chunk of 2 message(s) for chat: 1068116562030283848
+Saving chunk of 1 message(s) for chat: +86 106856104719332
+Saving chunk of 1 message(s) for chat: +86 106906981804951
+Saving chunk of 1 message(s) for chat: 10682547220000009042
+Saving chunk of 1 message(s) for chat: +86 106942340000317
+Saving chunk of 1 message(s) for chat: 10682547220000009052
+Saving chunk of 1 message(s) for chat: +86 1069446611004
+Saving chunk of 1 message(s) for chat: +86 1068811764643646
+Saving chunk of 1 message(s) for chat: 1068578204471933223
+Saving chunk of 1 message(s) for chat: +86 1069163121000107
+Saving chunk of 3 message(s) for chat: 10682662631900000002
+Saving chunk of 1 message(s) for chat: 106844440402460220
+Saving chunk of 4 message(s) for chat: +86 1068708521000020
+Saving chunk of 2 message(s) for chat: +86 1068227210941
+Saving chunk of 1 message(s) for chat: +86 156 9251 5634
+Saving chunk of 1 message(s) for chat: +86 10681285402257552
+Saving chunk of 2 message(s) for chat: +86 10684314720012322
+Saving chunk of 1 message(s) for chat: +86 130 4458 1142
+Saving chunk of 1 message(s) for chat: 10682547220000015141
+Saving chunk of 2 message(s) for chat: +86 1069147707108272
+Saving chunk of 1 message(s) for chat: +86 10692493051234
+Saving chunk of 1 message(s) for chat: +86 106893311000074
+Saving chunk of 1 message(s) for chat: +86 10680213640018322
+Saving chunk of 1 message(s) for chat: +86 156 9256 4292
+Saving chunk of 1 message(s) for chat: 10684717125111020258
+Deleting chat: 10688231700000160225 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 10688622612099
+Saving chunk of 1 message(s) for chat: +86 10688402402257531
+Saving chunk of 1 message(s) for chat: +86 10694089640002371
+Saving chunk of 1 message(s) for chat: +86 10688402405506090
+Saving chunk of 1 message(s) for chat: +86 156 9252 2140
+Saving chunk of 1 message(s) for chat: +86 156 9251 7947
+Saving chunk of 2 message(s) for chat: +86 106941785329051
+Saving chunk of 1 message(s) for chat: +86 106927802100084
+Saving chunk of 1 message(s) for chat: +86 106946948001374
+Saving chunk of 1 message(s) for chat: 106838852107784001
+Saving chunk of 2 message(s) for chat: 10683861220000010052
+Saving chunk of 1 message(s) for chat: 10682547220000015068
+Saving chunk of 5 message(s) for chat: +86 106814270012634
+Saving chunk of 1 message(s) for chat: +86 156 9256 7746
+Saving chunk of 1 message(s) for chat: 10682547220000009041
+Saving chunk of 1 message(s) for chat: 106850340000000041
+Saving chunk of 1 message(s) for chat: 10685375969363190001
+Saving chunk of 1 message(s) for chat: +86 10684314720011782
+Saving chunk of 1 message(s) for chat: 10682885664047560001
+Saving chunk of 2 message(s) for chat: +86 10684314720011119
+Deleting chat: +86 10690544500027252 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 10685806552582
+Saving chunk of 1 message(s) for chat: 10686964000000546924
+Saving chunk of 1 message(s) for chat: +86 10685806550167
+Saving chunk of 2 message(s) for chat: +86 95588
+Deleting chat: +86 106885401221271 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 156 9251 5429
+Saving chunk of 5 message(s) for chat: +86 10684314720011948
+Saving chunk of 1 message(s) for chat: +86 106874178068245
+Saving chunk of 1 message(s) for chat: +86 10685029100001215
+Saving chunk of 1 message(s) for chat: +86 10687285401507820
+Saving chunk of 1 message(s) for chat: 1069472700000002426
+Saving chunk of 1 message(s) for chat: +86 1068775610023497
+Saving chunk of 4 message(s) for chat: +86 106885401200268
+Saving chunk of 1 message(s) for chat: +86 156 9250 7548
+Saving chunk of 1 message(s) for chat: +86 130 3603 7984
+Saving chunk of 1 message(s) for chat: 1069472720000002426
+Saving chunk of 1 message(s) for chat: +86 106948585002511
+Saving chunk of 1 message(s) for chat: +86 106852227707601
+Saving chunk of 1 message(s) for chat: +86 156 9255 5143
+Saving chunk of 1 message(s) for chat: 10687583599336631128
+Saving chunk of 1 message(s) for chat: 10692736969363190001
+Saving chunk of 1 message(s) for chat: +86 130 3603 2164
+Saving chunk of 4 message(s) for chat: +86 10684162552601
+Saving chunk of 1 message(s) for chat: +86 130 3603 8403
+Saving chunk of 1 message(s) for chat: +86 10694694140000066
+Saving chunk of 1 message(s) for chat: 1068314526200160001
+Saving chunk of 2 message(s) for chat: +86 10685806548919
+Saving chunk of 1 message(s) for chat: 10683118870000014467
+Saving chunk of 1 message(s) for chat: +86 10685806495197
+Saving chunk of 1 message(s) for chat: 10686014452902372351
+Saving chunk of 1 message(s) for chat: +86 1069009895516
+Saving chunk of 1 message(s) for chat: +86 10 657 532 1410
+Saving chunk of 9 message(s) for chat: 10686115850509139191
+Saving chunk of 1 message(s) for chat: 10688806092708000001
+Saving chunk of 4 message(s) for chat: +86 10685806552601
+Deleting chat: +86 10691220917002373 (skip empty chats was selected)
+Deleting chat: +86 10685806482561 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: 10685973263008000001
+Saving chunk of 1 message(s) for chat: 1068008762030346740
+Saving chunk of 1 message(s) for chat: +86 10685806551667
+Saving chunk of 2 message(s) for chat: 10686080373263190009
+Saving chunk of 1 message(s) for chat: +86 106862028000012
+Saving chunk of 2 message(s) for chat: 106912209170078148
+Saving chunk of 1 message(s) for chat: 10686755807000000379
+Saving chunk of 1 message(s) for chat: 1068008762030279393
+Saving chunk of 1 message(s) for chat: +86 10686463150811683
+Saving chunk of 2 message(s) for chat: 10686080373263190001
+Saving chunk of 1 message(s) for chat: 106884418003896042
+Deleting chat: 10686755807000132480 (skip empty chats was selected)
+Saving chunk of 6 message(s) for chat: 10683861220000008856
+Saving chunk of 9 message(s) for chat: +86 106931619291294
+Saving chunk of 1 message(s) for chat: +86 10 688 117 3309
+Saving chunk of 1 message(s) for chat: +86 184 8010 6225
+Saving chunk of 1 message(s) for chat: +86 10 692 873 0743
+Saving chunk of 1 message(s) for chat: +86 10685806544313
+Saving chunk of 3 message(s) for chat: 1068008762030281273
+Saving chunk of 2 message(s) for chat: 10687783642786635329
+Saving chunk of 3 message(s) for chat: 10687641200000037239
+Saving chunk of 1 message(s) for chat: +86 106938881007328
+Saving chunk of 2 message(s) for chat: +86 10680397251171097
+Deleting chat: +86 10688187152045 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 130 3600 6431
+Saving chunk of 1 message(s) for chat: +86 156 9251 6448
+Saving chunk of 4 message(s) for chat: +86 10685806552663
+Saving chunk of 2 message(s) for chat: +86 189 6002 5985
+Saving chunk of 1 message(s) for chat: +86 1069207409113698
+Saving chunk of 1 message(s) for chat: +86 130 3604 5478
+Saving chunk of 1 message(s) for chat: +86 106843860038861
+Saving chunk of 1 message(s) for chat: +86 1068519410000078
+Saving chunk of 1 message(s) for chat: 10691673599336631128
+Saving chunk of 5 message(s) for chat: +86 10685806548935
+Saving chunk of 1 message(s) for chat: +86 156 9254 3478
+Saving chunk of 1 message(s) for chat: +86 10690544500027240
+Saving chunk of 1 message(s) for chat: +86 10682214734268
+Saving chunk of 2 message(s) for chat: +86 1068606000270013
+Saving chunk of 1 message(s) for chat: +86 1068507000270013
+Saving chunk of 2 message(s) for chat: +86 1068717200270013
+Saving chunk of 1 message(s) for chat: +86 156 9251 1864
+Saving chunk of 200 chat(s)...
+Saving chunk of 1 message(s) for chat: +86 10681910180002389
+Deleting chat: 10683118870000000558 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 106931619332691
+Saving chunk of 1 message(s) for chat: +86 1068556600034708
+Saving chunk of 1 message(s) for chat: +86 10691191914724
+Saving chunk of 1 message(s) for chat: 10684186631900000001
+Saving chunk of 1 message(s) for chat: +86 10689347342946
+Saving chunk of 3 message(s) for chat: +86 10683540235015
+Saving chunk of 3 message(s) for chat: +86 106941232001252
+Saving chunk of 1 message(s) for chat: +86 152 8041 6996
+Saving chunk of 1 message(s) for chat: +86 1068717200305090
+Saving chunk of 1 message(s) for chat: 106936158573366040
+Saving chunk of 1 message(s) for chat: 10686262619057613150
+Saving chunk of 1 message(s) for chat: +86 156 9251 1754
+Saving chunk of 2 message(s) for chat: +86 10 685 316 3065
+Saving chunk of 1 message(s) for chat: +86 10683430332691
+Saving chunk of 1 message(s) for chat: 1069323922340231657
+Deleting chat: 10686755807000000183 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: 10683360000002665946
+Deleting chat: +86 10680192072748 (skip empty chats was selected)
+Deleting chat: +86 106938845290407 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 106938845290412
+Saving chunk of 2 message(s) for chat: +86 10685719560051
+Saving chunk of 1 message(s) for chat: +1 06938845290412
+Saving chunk of 1 message(s) for chat: +86 10683312007279
+Saving chunk of 1 message(s) for chat: +86 1068091250283392
+Saving chunk of 1 message(s) for chat: 106903918050342040
+Saving chunk of 2 message(s) for chat: +86 10683540242614
+Saving chunk of 1 message(s) for chat: +86 10688243805868
+Saving chunk of 2 message(s) for chat: 10693067969363190001
+Saving chunk of 1 message(s) for chat: +86 1068163020259091
+Saving chunk of 1 message(s) for chat: +86 1068113700297459
+Saving chunk of 1 message(s) for chat: +86 10692722500917
+Saving chunk of 7 message(s) for chat: +86 10682054
+Saving chunk of 1 message(s) for chat: +86 1068648080002389
+Saving chunk of 3 message(s) for chat: 1068143662030279393
+Saving chunk of 1 message(s) for chat: 10686083614004650575
+Saving chunk of 2 message(s) for chat: +86 106829533078576
+Saving chunk of 1 message(s) for chat: 106848130202012658
+Saving chunk of 1 message(s) for chat: +86 184 0062 9335
+Saving chunk of 10 message(s) for chat: +86 1068644448100353
+Saving chunk of 13 message(s) for chat: 10681556005363190001
+Saving chunk of 1 message(s) for chat: +86 1068140200325792
+Saving chunk of 5 message(s) for chat: +86 135 5910 1995
+Saving chunk of 1 message(s) for chat: +86 1069052896066
+Saving chunk of 1 message(s) for chat: +86 1068414100453105
+Saving chunk of 1 message(s) for chat: +86 1068168688200360
+Saving chunk of 1 message(s) for chat: +86 10687215061315
+Saving chunk of 1 message(s) for chat: 106875652508160081
+Saving chunk of 1 message(s) for chat: +86 185 1542 6449
+Saving chunk of 1 message(s) for chat: +86 184 8010 5806
+Saving chunk of 5 message(s) for chat: +86 10650821670108
+Saving chunk of 4 message(s) for chat: +86 1068389205060293
+Saving chunk of 1 message(s) for chat: 10694251816200522035
+Saving chunk of 2 message(s) for chat: +86 1068287833654958
+Saving chunk of 1 message(s) for chat: 106945848339152030
+Saving chunk of 1 message(s) for chat: +86 10688187113113
+Saving chunk of 4 message(s) for chat: +86 1068377550700001
+Saving chunk of 2 message(s) for chat: +86 184 8010 6169
+Saving chunk of 1 message(s) for chat: 10686755807000000332
+Saving chunk of 1 message(s) for chat: 10690736169001105352
+Saving chunk of 1 message(s) for chat: 1069350613141313351
+Saving chunk of 1 message(s) for chat: +86 10680516270503
+Saving chunk of 1 message(s) for chat: +86 10694039951409236
+Saving chunk of 1 message(s) for chat: +86 10683312034592
+Saving chunk of 1 message(s) for chat: +86 1068783610617552
+Saving chunk of 2 message(s) for chat: 106926958210300011
+Saving chunk of 1 message(s) for chat: 10683221462612379516
+Saving chunk of 1 message(s) for chat: +86 1068240726324358
+Saving chunk of 1 message(s) for chat: 10694420700002173249
+Saving chunk of 1 message(s) for chat: +86 10682812000278
+Saving chunk of 1 message(s) for chat: +86 1069485850100292
+Saving chunk of 1 message(s) for chat: +86 184 0091 7188
+Saving chunk of 1 message(s) for chat: +86 1068717200077955
+Saving chunk of 1 message(s) for chat: +86 10686202329783
+Saving chunk of 1 message(s) for chat: +86 10693472001021
+Saving chunk of 1 message(s) for chat: +86 10688187324676
+Saving chunk of 1 message(s) for chat: +86 10691390821599
+Saving chunk of 1 message(s) for chat: 106835448573366040
+Saving chunk of 1 message(s) for chat: +86 1068706605998
+Saving chunk of 2 message(s) for chat: 10683883200000053124
+Saving chunk of 1 message(s) for chat: +86 1068644448100157
+Saving chunk of 3 message(s) for chat: +86 106860832931540
+Saving chunk of 2 message(s) for chat: 1069239462030279393
+Saving chunk of 1 message(s) for chat: +86 106938511002337
+Saving chunk of 2 message(s) for chat: 10694089670000000379
+Saving chunk of 2 message(s) for chat: +86 10690074560000
+Saving chunk of 1 message(s) for chat: 10683086700000000379
+Saving chunk of 1 message(s) for chat: +1 304-241-6466
+Saving chunk of 1 message(s) for chat: +86 106809645290412
+Saving chunk of 1 message(s) for chat: 10692022370000000379
+Saving chunk of 1 message(s) for chat: +86 106860833029178
+Saving chunk of 1 message(s) for chat: +86 1068168688200715
+Saving chunk of 1 message(s) for chat: +86 106913908318030
+Saving chunk of 1 message(s) for chat: 10683360000000263181
+Deleting chat: +86 10683430292004 (skip empty chats was selected)
+Deleting chat: +86 10688706001095 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 10687581560051
+Saving chunk of 1 message(s) for chat: +86 106801506088001
+Saving chunk of 1 message(s) for chat: +86 106850439920003
+Saving chunk of 1 message(s) for chat: +86 1069221903108523
+Saving chunk of 1 message(s) for chat: +86 106917261470514
+Saving chunk of 1 message(s) for chat: +86 1069130510617552
+Saving chunk of 1 message(s) for chat: +86 106922197086657
+Saving chunk of 1 message(s) for chat: +86 106856711470514
+Saving chunk of 1 message(s) for chat: +86 188 5010 1121
+Saving chunk of 1 message(s) for chat: +86 106923337086657
+Saving chunk of 1 message(s) for chat: +86 106800175000003
+Saving chunk of 1 message(s) for chat: +86 106840759234532
+Saving chunk of 1 message(s) for chat: 10690760000000458519
+Saving chunk of 1 message(s) for chat: 10659025620100458748
+Saving chunk of 1 message(s) for chat: 10659025620300000112
+Saving chunk of 1 message(s) for chat: +86 106936541004500
+Saving chunk of 1 message(s) for chat: 106937246814418504
+Saving chunk of 2 message(s) for chat: +86 1068077007813938
+Saving chunk of 1 message(s) for chat: +86 10691872110206176
+Saving chunk of 1 message(s) for chat: +86 1068092817771
+Saving chunk of 1 message(s) for chat: +86 10693402110001449
+Saving chunk of 2 message(s) for chat: +86 10684567560000
+Saving chunk of 1 message(s) for chat: +86 183 1087 8707
+Saving chunk of 1 message(s) for chat: +86 106908471311014
+Saving chunk of 1 message(s) for chat: +86 10 685 992 2483
+Saving chunk of 1 message(s) for chat: 10683647320000007656
+Saving chunk of 7 message(s) for chat: 1069122091627264000
+Saving chunk of 2 message(s) for chat: +86 10682587203239
+Saving chunk of 6 message(s) for chat: +86 10 693 933 2672
+Saving chunk of 1 message(s) for chat: +86 1068666665006075
+Saving chunk of 1 message(s) for chat: 10683647320000017809
+Saving chunk of 1 message(s) for chat: +86 186 8337 7435
+Saving chunk of 3 message(s) for chat: +86 106846207878508
+Saving chunk of 1 message(s) for chat: +86 10683884013539
+Saving chunk of 2 message(s) for chat: 10686181969363190001
+Saving chunk of 1 message(s) for chat: +86 186 8343 2539
+Saving chunk of 2 message(s) for chat: +86 12381
+Saving chunk of 1 message(s) for chat: +86 10686666691490
+Saving chunk of 1 message(s) for chat: +86 10686666660401497
+Saving chunk of 2 message(s) for chat: +86 10683475586104335
+Saving chunk of 2 message(s) for chat: +86 1068168688200062
+Saving chunk of 1 message(s) for chat: +86 106866666526451
+Saving chunk of 2 message(s) for chat: 10683883200000007794
+Saving chunk of 1 message(s) for chat: +86 186 8402 8752
+Saving chunk of 1 message(s) for chat: +86 186 2834 9706
+Saving chunk of 1 message(s) for chat: +86 106860835369131
+Saving chunk of 1 message(s) for chat: +86 10686335003228
+Saving chunk of 1 message(s) for chat: +86 755 3656 6586
+Saving chunk of 2 message(s) for chat: 10683481316779273923
+Saving chunk of 2 message(s) for chat: 10686260000033111004
+Saving chunk of 1 message(s) for chat: +86 10690198483772
+Saving chunk of 1 message(s) for chat: 1068533208014972040
+Saving chunk of 1 message(s) for chat: 106575093613560001
+Saving chunk of 1 message(s) for chat: 10683320000000000379
+Saving chunk of 5 message(s) for chat: 10685106320000005995
+Saving chunk of 2 message(s) for chat: 10683647320000005995
+Saving chunk of 1 message(s) for chat: +86 10684302999110
+Saving chunk of 1 message(s) for chat: 1068138608018748040
+Saving chunk of 1 message(s) for chat: +86 10686350610014926
+Saving chunk of 1 message(s) for chat: 10683883200000125563
+Saving chunk of 15 message(s) for chat: 10683883200000007790
+Saving chunk of 1 message(s) for chat: +86 162 2991 5664
+Saving chunk of 1 message(s) for chat: +86 10693274044719332
+Deleting chat: +86 1068382525395 (skip empty chats was selected)
+Saving chunk of 2 message(s) for chat: +86 106941785000030
+Saving chunk of 3 message(s) for chat: +86 95566
+Saving chunk of 2 message(s) for chat: 10686260997322997252
+Saving chunk of 1 message(s) for chat: +86 10680204151614026
+Saving chunk of 9 message(s) for chat: +86 184 6667 9787
+Saving chunk of 1 message(s) for chat: 1068611585050913925
+Saving chunk of 4 message(s) for chat: 10683883200000093475
+Saving chunk of 1 message(s) for chat: +86 106856462032289
+Saving chunk of 1 message(s) for chat: +86 10686463151614026
+Saving chunk of 1 message(s) for chat: +86 106856462000291
+Saving chunk of 2 message(s) for chat: 10683320000000000101
+Saving chunk of 1 message(s) for chat: +86 1068347557214058
+Saving chunk of 2 message(s) for chat: 10686260997041997034
+Saving chunk of 1 message(s) for chat: 1068409096202000004
+Saving chunk of 1 message(s) for chat: +86 1068389205027149
+Saving chunk of 1 message(s) for chat: 10686260997043997036
+Saving chunk of 1 message(s) for chat: +86 1068382524957
+Saving chunk of 1 message(s) for chat: 10687046810019751532
+Saving chunk of 1 message(s) for chat: +86 10687483616922
+Saving chunk of 1 message(s) for chat: 10683883200000007789
+Saving chunk of 1 message(s) for chat: +86 1068382543610
+Saving chunk of 1 message(s) for chat: +86 10692103942089
+Saving chunk of 7 message(s) for chat: 1068611585050913921
+Saving chunk of 1 message(s) for chat: 1068784729010625024
+Saving chunk of 1 message(s) for chat: +86 1068347557214477
+Deleting chat: +86 1068205402292078 (skip empty chats was selected)
+Deleting chat: +86 10683476000364 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 10694364240709
+Saving chunk of 1 message(s) for chat: +86 1069119191017
+Saving chunk of 1 message(s) for chat: +86 1068266683039222
+Deleting chat: +86 10692323991580055 (skip empty chats was selected)
+Saving chunk of 9 message(s) for chat: 10683883200000006485
+Saving chunk of 1 message(s) for chat: 10684711921000588031
+Saving chunk of 2 message(s) for chat: +86 10683476005646
+Saving chunk of 1 message(s) for chat: +86 106903004651141
+Saving chunk of 1 message(s) for chat: 106804184549519678
+Saving chunk of 1 message(s) for chat: +86 1068557238398301
+Saving chunk of 2 message(s) for chat: 10683320263008000001
+Saving chunk of 1 message(s) for chat: +86 10680039483771
+Saving chunk of 200 chat(s)...
+Saving chunk of 1 message(s) for chat: +86 10690544670104760
+Saving chunk of 3 message(s) for chat: +86 106912209123551
+Saving chunk of 1 message(s) for chat: +86 10690544670103223
+Saving chunk of 1 message(s) for chat: 10683320000000000277
+Saving chunk of 1 message(s) for chat: +86 1068606000271190
+Saving chunk of 1 message(s) for chat: +86 10691191910575239
+Saving chunk of 1 message(s) for chat: +86 106862141040047
+Saving chunk of 1 message(s) for chat: 1068567296202000342
+Saving chunk of 4 message(s) for chat: +86 1068347557214131
+Saving chunk of 1 message(s) for chat: +86 1068347557214121
+Saving chunk of 12 message(s) for chat: +86 10690544670102989
+Saving chunk of 1 message(s) for chat: +86 10690544670103209
+Saving chunk of 1 message(s) for chat: +86 10690544670105455
+Saving chunk of 1 message(s) for chat: 1068541708319288040
+Saving chunk of 1 message(s) for chat: +86 186 1321 4443
+Saving chunk of 1 message(s) for chat: +86 186 8400 8253
+Saving chunk of 1 message(s) for chat: +86 185 8482 3158
+Saving chunk of 1 message(s) for chat: +86 185 8254 6532
+Saving chunk of 1 message(s) for chat: +86 186 8401 5571
+Saving chunk of 1 message(s) for chat: +86 186 2811 9244
+Saving chunk of 1 message(s) for chat: +86 186 2834 2644
+Saving chunk of 1 message(s) for chat: 10684711928041354335
+Saving chunk of 1 message(s) for chat: 10683320000000000166
+Saving chunk of 1 message(s) for chat: +86 185 8480 0880
+Saving chunk of 1 message(s) for chat: +86 10680389517304
+Saving chunk of 1 message(s) for chat: +86 186 2804 4065
+Saving chunk of 1 message(s) for chat: +86 10687732519401
+Saving chunk of 19 message(s) for chat: +86 1068382525249
+Saving chunk of 19 message(s) for chat: +86 1068382524146
+Saving chunk of 1 message(s) for chat: +86 186 2814 5956
+Saving chunk of 1 message(s) for chat: 106932392027630217
+Saving chunk of 1 message(s) for chat: +86 1069232391004631
+Saving chunk of 1 message(s) for chat: 10684711928041353046
+Saving chunk of 1 message(s) for chat: 1069323920000544001
+Saving chunk of 1 message(s) for chat: 10683320000000000332
+Saving chunk of 1 message(s) for chat: 10684711928041353413
+Saving chunk of 1 message(s) for chat: +86 185 8481 6878
+Saving chunk of 1 message(s) for chat: +86 1068347557213869
+Saving chunk of 1 message(s) for chat: 1068138608877703020
+Saving chunk of 1 message(s) for chat: +86 130 0152 0483
+Saving chunk of 1 message(s) for chat: 10683320000000081045
+Saving chunk of 1 message(s) for chat: 10683320000000519630
+Saving chunk of 1 message(s) for chat: +86 155 5337 3480
+Saving chunk of 1 message(s) for chat: +86 10694403208293
+Saving chunk of 1 message(s) for chat: +86 106931619111221
+Saving chunk of 1 message(s) for chat: +86 1068164700397151
+Saving chunk of 1 message(s) for chat: +86 130 6727 9044
+Saving chunk of 1 message(s) for chat: +86 130 1179 4776
+Saving chunk of 1 message(s) for chat: +86 1069119379479001
+Saving chunk of 1 message(s) for chat: +86 1068336094783
+Saving chunk of 1 message(s) for chat: 106875230052499476
+Saving chunk of 1 message(s) for chat: +86 10693239203103
+Saving chunk of 1 message(s) for chat: 106923961627264000
+Saving chunk of 1 message(s) for chat: +86 131 7649 1460
+Saving chunk of 1 message(s) for chat: +86 130 6103 8254
+Saving chunk of 1 message(s) for chat: +86 1068347557214107
+Saving chunk of 1 message(s) for chat: +86 1068164700164273
+Saving chunk of 1 message(s) for chat: +86 1068382523465
+Saving chunk of 1 message(s) for chat: +86 130 6104 7684
+Saving chunk of 1 message(s) for chat: +86 106858069870381
+Saving chunk of 1 message(s) for chat: 10683320161500361714
+Saving chunk of 1 message(s) for chat: +86 10686552003056
+Saving chunk of 5 message(s) for chat: 10683320000000000367
+Saving chunk of 1 message(s) for chat: 10683320000000000431
+Saving chunk of 1 message(s) for chat: 10683320000000000558
+Saving chunk of 1 message(s) for chat: +86 137 9944 7423
+Saving chunk of 5 message(s) for chat: +86 106858069876405
+Saving chunk of 1 message(s) for chat: +86 10686552000267
+Saving chunk of 2 message(s) for chat: +86 106858069802662
+Saving chunk of 3 message(s) for chat: +86 10690163331
+Saving chunk of 1 message(s) for chat: +86 10686552000011
+Saving chunk of 3 message(s) for chat: 1068784729010436103
+Saving chunk of 1 message(s) for chat: +86 1068555500196512
+Saving chunk of 2 message(s) for chat: 106818248014972040
+Saving chunk of 1 message(s) for chat: 106818248014972340
+Saving chunk of 1 message(s) for chat: 10693937235785915881
+Saving chunk of 1 message(s) for chat: 10684711926311279996
+Saving chunk of 2 message(s) for chat: 1069393724340019110
+Saving chunk of 5 message(s) for chat: 10684711920001310243
+Saving chunk of 1 message(s) for chat: +86 155 5433 0744
+Saving chunk of 1 message(s) for chat: +86 132 5628 7860
+Saving chunk of 3 message(s) for chat: 106900809100384732
+Saving chunk of 1 message(s) for chat: +86 100990406
+Saving chunk of 1 message(s) for chat: +86 131 4543 6244
+Saving chunk of 1 message(s) for chat: +86 10 683 200 0325
+Saving chunk of 1 message(s) for chat: +86 186 8404 8998
+Saving chunk of 1 message(s) for chat: +86 130 3452 4513
+Saving chunk of 1 message(s) for chat: 10680418450730003466
+Saving chunk of 1 message(s) for chat: +86 155 6308 8394
+Saving chunk of 1 message(s) for chat: +86 10 657 532 9994
+Saving chunk of 1 message(s) for chat: +86 130 8272 4745
+Saving chunk of 1 message(s) for chat: +86 10686765000011
+Saving chunk of 1 message(s) for chat: 1068659270000004109
+Saving chunk of 1 message(s) for chat: +86 106877710133854
+Saving chunk of 1 message(s) for chat: +86 10682054677029
+Saving chunk of 2 message(s) for chat: +86 10691125067238482
+Saving chunk of 1 message(s) for chat: +86 1068799306093329
+Saving chunk of 1 message(s) for chat: 1069393724340037331
+Saving chunk of 1 message(s) for chat: +86 185 8491 7228
+Saving chunk of 5 message(s) for chat: +86 10 686 607 0118
+Deleting chat: 1068659270000000504 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 185 8485 1691
+Deleting chat: +86 106846100397377 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: 1069393724340005036
+Saving chunk of 1 message(s) for chat: +86 186 0284 7613
+Saving chunk of 2 message(s) for chat: 10684711928040000494
+Saving chunk of 3 message(s) for chat: 1069393724340038047
+Saving chunk of 1 message(s) for chat: +86 131 5342 1084
+Saving chunk of 1 message(s) for chat: +86 130 1179 7394
+Saving chunk of 1 message(s) for chat: +86 1068799306020103
+Saving chunk of 1 message(s) for chat: +86 1068079532606
+Saving chunk of 1 message(s) for chat: +86 106870156924851
+Saving chunk of 3 message(s) for chat: 10684711926311251682
+Saving chunk of 1 message(s) for chat: 106818248050342040
+Saving chunk of 3 message(s) for chat: 1069393724340038572
+Saving chunk of 2 message(s) for chat: 10683320000001009411
+Deleting chat: 1068041840000441826 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 10680418400354218
+Saving chunk of 2 message(s) for chat: 10686080337340948193
+Saving chunk of 2 message(s) for chat: +86 106913908348971
+Saving chunk of 1 message(s) for chat: 106826664110685754
+Saving chunk of 2 message(s) for chat: +86 10 687 472 3030
+Saving chunk of 1 message(s) for chat: 10693538913490002356
+Saving chunk of 1 message(s) for chat: +86 136 5500 8340
+Saving chunk of 1 message(s) for chat: +86 136 1505 7150
+Saving chunk of 1 message(s) for chat: +86 156 9255 1422
+Saving chunk of 2 message(s) for chat: +86 1069139083389900
+Saving chunk of 1 message(s) for chat: 106921055761330058
+Saving chunk of 1 message(s) for chat: +86 186 2818 4847
+Saving chunk of 1 message(s) for chat: 10683320613000013600
+Saving chunk of 1 message(s) for chat: +86 10 688 124 0167
+Saving chunk of 1 message(s) for chat: 106826664494106948
+Saving chunk of 3 message(s) for chat: +86 106913908338570
+Saving chunk of 1 message(s) for chat: +86 10692105564533113
+Saving chunk of 1 message(s) for chat: +86 10686647013539
+Saving chunk of 1 message(s) for chat: +86 156 9255 6497
+Saving chunk of 5 message(s) for chat: +86 1069203435039
+Saving chunk of 2 message(s) for chat: +86 1069100361103
+Saving chunk of 4 message(s) for chat: +86 106938845000726
+Saving chunk of 2 message(s) for chat: 10684562990000002904
+Saving chunk of 1 message(s) for chat: +86 185 8480 0135
+Saving chunk of 1 message(s) for chat: +86 185 8254 6939
+Saving chunk of 1 message(s) for chat: 10688376200019118270
+Saving chunk of 1 message(s) for chat: +86 186 8404 0908
+Saving chunk of 1 message(s) for chat: +86 10692105564537429
+Saving chunk of 1 message(s) for chat: +86 185 8486 1775
+Saving chunk of 1 message(s) for chat: +86 10 688 124 0155
+Saving chunk of 1 message(s) for chat: 1068332396202000342
+Saving chunk of 1 message(s) for chat: +86 186 2830 8944
+Saving chunk of 2 message(s) for chat: 10691506961300013611
+Saving chunk of 1 message(s) for chat: +86 10686765000010
+Saving chunk of 1 message(s) for chat: +86 1068507000461045
+Saving chunk of 1 message(s) for chat: 1068541708014972040
+Saving chunk of 1 message(s) for chat: +86 185 8247 7150
+Saving chunk of 1 message(s) for chat: +86 10686235000011
+Saving chunk of 1 message(s) for chat: +86 185 8246 0523
+Saving chunk of 5 message(s) for chat: 1068541708014972340
+Saving chunk of 1 message(s) for chat: 1069490418040002149
+Saving chunk of 2 message(s) for chat: +86 10680418465640807
+Saving chunk of 1 message(s) for chat: +86 185 8483 6750
+Saving chunk of 1 message(s) for chat: +86 1068141600039603
+Saving chunk of 4 message(s) for chat: +86 1068382547037
+Saving chunk of 1 message(s) for chat: +86 10692493000137
+Saving chunk of 1 message(s) for chat: +86 156 9250 2242
+Saving chunk of 5 message(s) for chat: +86 1069100361468
+Saving chunk of 1 message(s) for chat: +86 186 2834 6398
+Saving chunk of 1 message(s) for chat: +86 186 8402 8120
+Saving chunk of 1 message(s) for chat: +86 186 8401 2272
+Saving chunk of 1 message(s) for chat: +86 186 2834 3228
+Saving chunk of 1 message(s) for chat: +86 10 688 124 0056
+Saving chunk of 1 message(s) for chat: 106845562412170004
+Saving chunk of 1 message(s) for chat: +86 186 5045 8235
+Saving chunk of 1 message(s) for chat: +86 1068061100039603
+Saving chunk of 1 message(s) for chat: 1068138608014972040
+Saving chunk of 2 message(s) for chat: +86 10680551338604
+Saving chunk of 1 message(s) for chat: +86 186 2834 9923
+Saving chunk of 3 message(s) for chat: +86 1068012130210
+Saving chunk of 3 message(s) for chat: 10686260076701010114
+Deleting chat: +86 21 2413 0676 (skip empty chats was selected)
+Deleting chat: +86 106912200030001 (skip empty chats was selected)
+Deleting chat: +86 10 659 885 0020 (skip empty chats was selected)
+Deleting chat: +86 21 3465 4728 (skip empty chats was selected)
+Deleting chat: 106944359287217851 (skip empty chats was selected)
+Deleting chat: +86 10693373661004 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 10655000100676880
+Saving chunk of 1 message(s) for chat: 10655710070680575420
+Deleting chat: 106851241118201865 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 454 6103 1468
+Saving chunk of 1 message(s) for chat: +86 10656666
+Saving chunk of 1 message(s) for chat: +86 10188
+Deleting chat: 10692503000000000885 (skip empty chats was selected)
+Deleting chat: 106914498615618574 (skip empty chats was selected)
+Deleting chat: +86 898 3637 1310 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: 10690269023400520903
+Saving chunk of 2 message(s) for chat: +86 10 698 009 5188
+Deleting chat: +86 1068675030920 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: 10691021861561851047
+Saving chunk of 2 message(s) for chat: 10655710075000456219
+Deleting chat: 106914498615618557 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: 10655710090262692160
+Saving chunk of 200 chat(s)...
+Saving chunk of 1 message(s) for chat: 10655710090262692160
+Saving chunk of 1 message(s) for chat: +86 10680344661004
+Deleting chat: 10692158857105003000 (skip empty chats was selected)
+Deleting chat: +86 10685632226000 (skip empty chats was selected)
+Deleting chat: 106949500000468200 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 10 6553 5766
+Saving chunk of 1 message(s) for chat: +86 1069283291756452
+Saving chunk of 1 message(s) for chat: 10683170130165246100
+Deleting chat: 1069400993500521738 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 1069152812131
+Deleting chat: +86 10690703878272 (skip empty chats was selected)
+Deleting chat: 1068108418917217600 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 21 5382 2023
+Saving chunk of 1 message(s) for chat: +86 10683917023635705
+Saving chunk of 1 message(s) for chat: +86 106981630163222
+Saving chunk of 1 message(s) for chat: +86 21 5704 3922
+Deleting chat: 10659057666511667927 (skip empty chats was selected)
+Saving chunk of 3 message(s) for chat: 10659024240000686737
+Saving chunk of 1 message(s) for chat: +86 106550578776517
+Deleting chat: 10683917061463026054 (skip empty chats was selected)
+Deleting chat: +86 10682936280100024 (skip empty chats was selected)
+Deleting chat: +86 106838264729368 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: 10659025620300056743
+Deleting chat: +86 1069263269171611 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 1069472211010368
+Saving chunk of 1 message(s) for chat: +86 10692216223809
+Deleting chat: +86 21 3550 8239 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: 10659025620300000226
+Saving chunk of 1 message(s) for chat: 1069423843500455955
+Deleting chat: 106943427900000003 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 10694680210013
+Saving chunk of 1 message(s) for chat: +86 106590595017362
+Saving chunk of 1 message(s) for chat: 1068391702665799800
+Saving chunk of 1 message(s) for chat: 10655004648603900655
+Saving chunk of 1 message(s) for chat: 10686067000000000558
+Deleting chat: 106943616127823390 (skip empty chats was selected)
+Deleting chat: +86 106905830175023 (skip empty chats was selected)
+Deleting chat: +86 1069470266215957 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 10685684678
+Saving chunk of 1 message(s) for chat: +86 10683917064753
+Deleting chat: 1069374615436697497 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: 10694679000000000255
+Saving chunk of 1 message(s) for chat: +86 10 692 496 2940
+Deleting chat: +86 10691164000448000 (skip empty chats was selected)
+Deleting chat: +86 454 6070 2668 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: 1068099351015901007
+Saving chunk of 1 message(s) for chat: +86 100100171
+Deleting chat: +86 1068044958017929 (skip empty chats was selected)
+Deleting chat: +86 1069434279200636 (skip empty chats was selected)
+Deleting chat: 106910218615618557 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 10694621620051
+Saving chunk of 2 message(s) for chat: +86 106925314559457
+Deleting chat: 10692099000000458519 (skip empty chats was selected)
+Deleting chat: +86 21 2214 5614 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 10692531492218
+Deleting chat: +86 21 3464 1934 (skip empty chats was selected)
+Deleting chat: +86 10692877616253433 (skip empty chats was selected)
+Saving chunk of 6 message(s) for chat: +86 10 693 795 9623
+Deleting chat: +86 1068075121687258 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: 106842962223654328
+Saving chunk of 1 message(s) for chat: +86 106825626150040
+Deleting chat: 10680705900012211116 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: 106936959265370028
+Saving chunk of 1 message(s) for chat: 10659025620400268604
+Saving chunk of 4 message(s) for chat: +86 106907566150017
+Saving chunk of 5 message(s) for chat: +86 173 7146 9980
+Deleting chat: 10691996153210046366 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: 106557100651609632
+Deleting chat: 106943858603900655 (skip empty chats was selected)
+Deleting chat: +86 21 5534 3617 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 10655000100381003
+Deleting chat: 10659025620100000885 (skip empty chats was selected)
+Deleting chat: 106823320347373988 (skip empty chats was selected)
+Deleting chat: 10684057350044775526 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: 106557100906223809
+Deleting chat: +86 10655516216 (skip empty chats was selected)
+Deleting chat: 10692054000106570080 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 10655166
+Deleting chat: 106943428300544377 (skip empty chats was selected)
+Deleting chat: +86 106943851031100 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 1069236600000020
+Saving chunk of 1 message(s) for chat: 10684383000000000255
+Deleting chat: 10659025620400458748 (skip empty chats was selected)
+Deleting chat: +86 134 0956 5507 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: 10655005092158081980
+Saving chunk of 1 message(s) for chat: +86 1068352345594104
+Deleting chat: +86 10691652502200102 (skip empty chats was selected)
+Deleting chat: 10659059001200000112 (skip empty chats was selected)
+Deleting chat: +86 1069296566215957 (skip empty chats was selected)
+Deleting chat: 10683917061417217600 (skip empty chats was selected)
+Deleting chat: +86 10 690 709 5580 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 454 5165 5859
+Saving chunk of 1 message(s) for chat: +86 21 2614 5110
+Deleting chat: 10687415232351006438 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: 1069409848616746260
+Saving chunk of 1 message(s) for chat: 10655710012450200636
+Saving chunk of 1 message(s) for chat: +86 21 3465 0984
+Saving chunk of 1 message(s) for chat: 106910218615618574
+Saving chunk of 1 message(s) for chat: +86 106835234559474
+Deleting chat: 1069448290000434659 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 10 630 013 1216
+Saving chunk of 1 message(s) for chat: 10692989319805003000
+Deleting chat: +86 1069073895500 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: 106550270219522360
+Deleting chat: +86 1069200700201329 (skip empty chats was selected)
+Deleting chat: +86 10690616095500 (skip empty chats was selected)
+Deleting chat: +86 21 2214 3053 (skip empty chats was selected)
+Deleting chat: +86 10694680616253433 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: 10687671000000000885
+Deleting chat: 10684763000430211228 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 1069419027777777
+Saving chunk of 1 message(s) for chat: +86 1069295930894
+Saving chunk of 1 message(s) for chat: 10692008749477777777
+Saving chunk of 1 message(s) for chat: +86 21 5704 6214
+Saving chunk of 2 message(s) for chat: +86 106842506150017
+Saving chunk of 1 message(s) for chat: 1069432626339707181
+Deleting chat: +86 10683311724898121 (skip empty chats was selected)
+Deleting chat: +86 10681673177 (skip empty chats was selected)
+Deleting chat: +86 106935384279862 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: 10659885905300346810
+Deleting chat: +86 1068619640646574 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 10691666821863701
+Deleting chat: +86 1068064558017929 (skip empty chats was selected)
+Saving chunk of 2 message(s) for chat: 10691449861561851043
+Deleting chat: 1069235792065371007 (skip empty chats was selected)
+Deleting chat: +86 21 2413 0640 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: 10692312100000000183
+Saving chunk of 1 message(s) for chat: 1069448292000434659
+Deleting chat: 106919596507871004 (skip empty chats was selected)
+Deleting chat: 10659025620400000101 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 1065571001030421
+Deleting chat: 10692099000000268604 (skip empty chats was selected)
+Deleting chat: 10692099000000000226 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: 1068317060265371007
+Saving chunk of 1 message(s) for chat: 10684006000000433252
+Deleting chat: +86 10685530180421 (skip empty chats was selected)
+Deleting chat: +86 21 2034 0579 (skip empty chats was selected)
+Deleting chat: 1069235792967126301 (skip empty chats was selected)
+Deleting chat: +86 106939498638284 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 454 6066 9019
+Deleting chat: 10684344007601652174 (skip empty chats was selected)
+Saving chunk of 4 message(s) for chat: +86 10001688
+Saving chunk of 2 message(s) for chat: 10692101176001470381
+Saving chunk of 1 message(s) for chat: +86 1068317030010001
+Saving chunk of 4 message(s) for chat: +86 95580
+Saving chunk of 5 message(s) for chat: +86 10 691 582 2052
+Saving chunk of 1 message(s) for chat: 106920082987777777
+Saving chunk of 1 message(s) for chat: +86 100100136
+Saving chunk of 1 message(s) for chat: +86 1068352380126729
+Deleting chat: +86 10 680 938 6555 (skip empty chats was selected)
+Saving chunk of 5 message(s) for chat: +86 10 6558 5565
+Saving chunk of 1 message(s) for chat: 1068662100107370077
+Deleting chat: +86 10699000 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: 10655710079231160719
+Saving chunk of 1 message(s) for chat: 1069349252463050576
+Saving chunk of 1 message(s) for chat: 1065571006517929632
+Saving chunk of 1 message(s) for chat: 10659025620300458748
+Saving chunk of 1 message(s) for chat: 1069257829117777777
+Saving chunk of 1 message(s) for chat: +86 10015
+Deleting chat: +86 106903291589381 (skip empty chats was selected)
+Saving chunk of 10 message(s) for chat: +86 10000
+Deleting chat: 106858746772200636 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: 10682782000000000140
+Saving chunk of 2 message(s) for chat: 10686067000000000885
+Saving chunk of 1 message(s) for chat: 10681771855008940145
+Saving chunk of 1 message(s) for chat: +86 106942096150017
+Saving chunk of 1 message(s) for chat: +86 1069349460101
+Saving chunk of 1 message(s) for chat: +86 10630019311185
+Saving chunk of 1 message(s) for chat: +86 10655577
+Saving chunk of 1 message(s) for chat: 106912528200647856
+Saving chunk of 1 message(s) for chat: +86 10001666
+Saving chunk of 1 message(s) for chat: 106831704835387544
+Deleting chat: 106839171000457597 (skip empty chats was selected)
+Deleting chat: +86 21 5532 1775 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 10 6948 8511
+Deleting chat: +86 21 5704 7462 (skip empty chats was selected)
+Deleting chat: +86 10693695932652491 (skip empty chats was selected)
+Saving chunk of 2 message(s) for chat: +86 106905106150017
+Saving chunk of 1 message(s) for chat: +86 10655710062021
+Deleting chat: +86 1068346222468 (skip empty chats was selected)
+Deleting chat: +86 10692216332044 (skip empty chats was selected)
+Saving chunk of 2 message(s) for chat: +86 106925314559474
+Saving chunk of 1 message(s) for chat: +86 1069103146238908
+Saving chunk of 1 message(s) for chat: 106300191610631007
+Saving chunk of 1 message(s) for chat: 106826971610631007
+Saving chunk of 1 message(s) for chat: +86 452 602 4663
+Saving chunk of 4 message(s) for chat: +86 10016
+Saving chunk of 1 message(s) for chat: 1065502702114524188
+Saving chunk of 1 message(s) for chat: 10630014200504366106
+Saving chunk of 1 message(s) for chat: +86 10691511210322018
+Saving chunk of 1 message(s) for chat: 10655027021211180576
+Saving chunk of 1 message(s) for chat: 10655027021375319312
+Saving chunk of 1 message(s) for chat: +86 10 6909 5599
+Saving chunk of 1 message(s) for chat: 106300140626802803
+Saving chunk of 1 message(s) for chat: 106938861610635420
+Saving chunk of 1 message(s) for chat: 10694806214000603865
+Saving chunk of 1 message(s) for chat: +86 10 681 457 6759
+Saving chunk of 1 message(s) for chat: +86 10630014104304
+Saving chunk of 1 message(s) for chat: 10655027021211312429
+Saving chunk of 1 message(s) for chat: +86 1063001816274
+Saving chunk of 183 chat(s)...
+Saving chunk of 1 message(s) for chat: 10682466100016564080
+Saving chunk of 3 message(s) for chat: 10630014210267135041
+Saving chunk of 1 message(s) for chat: +86 591 8750 0164
+Saving chunk of 4 message(s) for chat: +86 106590594104393
+Saving chunk of 1 message(s) for chat: +86 150 3619 1938
+Saving chunk of 1 message(s) for chat: 10691519809200855617
+Saving chunk of 1 message(s) for chat: 10655027021211900012
+Saving chunk of 1 message(s) for chat: +86 452 604 1063
+Saving chunk of 2 message(s) for chat: +86 106930588888001
+Saving chunk of 13 message(s) for chat: +86 10659200
+Saving chunk of 2 message(s) for chat: +86 10655153
+Saving chunk of 1 message(s) for chat: +86 1069245440200280
+Saving chunk of 1 message(s) for chat: +86 1063001916139
+Saving chunk of 1 message(s) for chat: 10630006222365425631
+Saving chunk of 18 message(s) for chat: +86 10 698 009 5533
+Saving chunk of 1 message(s) for chat: +86 1063001816104745
+Saving chunk of 1 message(s) for chat: +86 1065502701009243
+Saving chunk of 3 message(s) for chat: +86 10 692 578 0388
+Saving chunk of 1 message(s) for chat: +86 10687756331477
+Saving chunk of 1 message(s) for chat: +86 452 605 4086
+Saving chunk of 1 message(s) for chat: 10655027021101094004
+Saving chunk of 1 message(s) for chat: +86 1063001916310
+Saving chunk of 1 message(s) for chat: 10687101163028000009
+Saving chunk of 2 message(s) for chat: +86 10630019306303
+Saving chunk of 1 message(s) for chat: 106912242000823733
+Saving chunk of 1 message(s) for chat: +86 10688760030920
+Saving chunk of 1 message(s) for chat: +86 1068998300299
+Saving chunk of 1 message(s) for chat: +86 10691420671114393
+Saving chunk of 1 message(s) for chat: 10686067000000000226
+Saving chunk of 2 message(s) for chat: +86 1068445310085135
+Saving chunk of 1 message(s) for chat: +86 1069231216150151
+Saving chunk of 2 message(s) for chat: 10655027021101091357
+Saving chunk of 1 message(s) for chat: +86 452 605 4392
+Saving chunk of 4 message(s) for chat: +86 1068622427609
+Saving chunk of 1 message(s) for chat: +86 1068269716104069
+Saving chunk of 2 message(s) for chat: +86 1063001314310004
+Saving chunk of 1 message(s) for chat: +86 1068497417756774
+Saving chunk of 1 message(s) for chat: +86 106550270216000
+Saving chunk of 2 message(s) for chat: +86 10655000100686880
+Saving chunk of 1 message(s) for chat: +86 1069385100588094
+Saving chunk of 14 message(s) for chat: +86 10001
+Saving chunk of 1 message(s) for chat: +86 106804605588483
+Saving chunk of 1 message(s) for chat: 106300142041182698
+Saving chunk of 2 message(s) for chat: 1065502702121137429
+Saving chunk of 2 message(s) for chat: +86 1068775637429
+Saving chunk of 1 message(s) for chat: +86 1069350584529790
+Saving chunk of 1 message(s) for chat: 106300181610635420
+Saving chunk of 1 message(s) for chat: 106877560451613392
+Saving chunk of 1 message(s) for chat: +86 156 0609 9410
+Saving chunk of 1 message(s) for chat: +86 10630018167960
+Saving chunk of 1 message(s) for chat: +86 1063001816766
+Saving chunk of 1 message(s) for chat: +86 10630018975646574
+Saving chunk of 1 message(s) for chat: +86 10693495555
+Saving chunk of 2 message(s) for chat: +86 1068601249876
+Saving chunk of 1 message(s) for chat: 1063001200087370077
+Saving chunk of 1 message(s) for chat: +86 1063001930009854
+Saving chunk of 1 message(s) for chat: +86 10691420671350411
+Saving chunk of 1 message(s) for chat: +86 10690067601395
+Saving chunk of 4 message(s) for chat: 1063001200087370015
+Saving chunk of 1 message(s) for chat: +86 1063001816104296
+Saving chunk of 1 message(s) for chat: +86 10630007804
+Saving chunk of 1 message(s) for chat: +86 10 691 968 7212
+Saving chunk of 1 message(s) for chat: +86 106920901320168
+Saving chunk of 1 message(s) for chat: 106805552210322011
+Saving chunk of 1 message(s) for chat: 10655027010092628837
+Saving chunk of 1 message(s) for chat: +86 452 616 6443
+Saving chunk of 1 message(s) for chat: +86 10655027021629
+Saving chunk of 4 message(s) for chat: +86 106930588899001
+Saving chunk of 1 message(s) for chat: 10655027021161182698
+Saving chunk of 1 message(s) for chat: +86 95516
+Saving chunk of 25 message(s) for chat: +86 10655810010
+Saving chunk of 1 message(s) for chat: +86 10630007645
+Saving chunk of 5 message(s) for chat: +86 12306
+Saving chunk of 2 message(s) for chat: +86 10630014000
+Saving chunk of 1 message(s) for chat: 106300145297110860
+Saving chunk of 1 message(s) for chat: +86 10 693 886 1629
+Saving chunk of 1 message(s) for chat: +86 1068432814310001
+Saving chunk of 9 message(s) for chat: +86 121234211
+Saving chunk of 1 message(s) for chat: +86 666180022104537
+Saving chunk of 1 message(s) for chat: +86 1063001916104253
+Saving chunk of 1 message(s) for chat: +86 10691938671350411
+Saving chunk of 1 message(s) for chat: +86 10687760620052
+Saving chunk of 1 message(s) for chat: +86 162 2984 5443
+Saving chunk of 1 message(s) for chat: 1068462073896802813
+Saving chunk of 1 message(s) for chat: +86 186 2897 8741
+Deleting chat: +86 106300146024882 (skip empty chats was selected)
+Saving chunk of 3 message(s) for chat: +86 1068243880990
+Saving chunk of 1 message(s) for chat: +86 10691626013539
+Saving chunk of 9 message(s) for chat: +86 10 6558 5561
+Saving chunk of 1 message(s) for chat: +86 1063001410635420
+Saving chunk of 1 message(s) for chat: +86 10683862000713
+Saving chunk of 1 message(s) for chat: +86 186 0284 8767
+Saving chunk of 1 message(s) for chat: 10684620738973700042
+Saving chunk of 14 message(s) for chat: +86 101906
+Saving chunk of 3 message(s) for chat: +86 1068559080757
+Saving chunk of 3 message(s) for chat: +86 10 682 666 0990
+Saving chunk of 1 message(s) for chat: 10686087000001086647
+Deleting chat: +86 1069139083881 (skip empty chats was selected)
+Saving chunk of 2 message(s) for chat: +86 10630012028901
+Saving chunk of 1 message(s) for chat: +86 1069139071468
+Saving chunk of 1 message(s) for chat: +86 186 2804 4023
+Saving chunk of 2 message(s) for chat: 10692264019562726400
+Saving chunk of 1 message(s) for chat: +86 106904686088001
+Saving chunk of 2 message(s) for chat: +86 10694089265640807
+Saving chunk of 1 message(s) for chat: 10693239203490002340
+Saving chunk of 1 message(s) for chat: +86 186 2824 2523
+Saving chunk of 2 message(s) for chat: 1069408926110231176
+Saving chunk of 2 message(s) for chat: 1068138608014972340
+Saving chunk of 1 message(s) for chat: 10686080337340945598
+Saving chunk of 1 message(s) for chat: +86 186 8337 2942
+Saving chunk of 1 message(s) for chat: 106831458200137429
+Saving chunk of 1 message(s) for chat: +86 186 2832 9994
+Saving chunk of 6 message(s) for chat: +86 95017
+Deleting chat: +86 10686060147000045 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 10 693 775 1132
+Saving chunk of 1 message(s) for chat: +86 186 2828 4529
+Saving chunk of 1 message(s) for chat: 1068462073896851102
+Deleting chat: +86 10693729900110014 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 10 686 080 3515
+Saving chunk of 1 message(s) for chat: +86 10 688 124 0174
+Saving chunk of 1 message(s) for chat: +86 10691275011511
+Saving chunk of 3 message(s) for chat: +86 10 694 700 3302
+Saving chunk of 1 message(s) for chat: +86 1069386290167142
+Saving chunk of 1 message(s) for chat: +86 1068702064912
+Saving chunk of 1 message(s) for chat: +86 186 8361 2344
+Saving chunk of 1 message(s) for chat: 10691506900001009366
+Saving chunk of 1 message(s) for chat: +86 1068221460021363
+Saving chunk of 1 message(s) for chat: 10684620745294388865
+Saving chunk of 1 message(s) for chat: +86 10691790942725562
+Saving chunk of 5 message(s) for chat: +86 10653830
+Saving chunk of 3 message(s) for chat: 106822660471550004
+Saving chunk of 1 message(s) for chat: +86 186 8402 7659
+Saving chunk of 1 message(s) for chat: +86 10693239207373492
+Saving chunk of 5 message(s) for chat: 10686080337351211560
+Saving chunk of 1 message(s) for chat: +86 185 8394 1339
+Saving chunk of 1 message(s) for chat: +86 186 8343 3136
+Saving chunk of 4 message(s) for chat: +86 106837755080001
+Saving chunk of 1 message(s) for chat: +86 185 8483 2393
+Saving chunk of 1 message(s) for chat: +86 186 2836 4044
+Deleting chat: +86 106300146024165 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 106855901033208
+Saving chunk of 1 message(s) for chat: +86 10684290013539
+Saving chunk of 2 message(s) for chat: +86 10694749208293
+Saving chunk of 1 message(s) for chat: +86 186 8344 5148
+Saving chunk of 1 message(s) for chat: +86 185 8394 1309
+Saving chunk of 1 message(s) for chat: +86 1068430883033209
+Saving chunk of 1 message(s) for chat: 10683630249124090120
+Saving chunk of 1 message(s) for chat: 1068462073896802380
+Saving chunk of 1 message(s) for chat: +86 186 8404 6744
+Saving chunk of 21 message(s) for chat: +86 95533
+Saving chunk of 1 message(s) for chat: 10683320620039000001
+Saving chunk of 1 message(s) for chat: 1063001200086802323
+Saving chunk of 3 message(s) for chat: 106846207389677029
+Saving chunk of 1 message(s) for chat: 1068138608003896040
+Saving chunk of 1 message(s) for chat: +86 1069470033232
+Saving chunk of 1 message(s) for chat: 1068462073896802361
+Saving chunk of 1 message(s) for chat: 10683221194087165754
+Deleting chat: +86 10688611166005874 (skip empty chats was selected)
+Deleting chat: +86 106300146024134 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 1069139073901
+Saving chunk of 1 message(s) for chat: +86 1069323920662968
+Saving chunk of 1 message(s) for chat: +86 10680351014310004
+Saving chunk of 1 message(s) for chat: +86 10680351014310013
+Saving chunk of 1 message(s) for chat: +86 185 8407 9365
+Saving chunk of 1 message(s) for chat: +86 106816124046797
+Saving chunk of 4 message(s) for chat: +86 10693414044719332
+Saving chunk of 1 message(s) for chat: +86 10684802700037
+Saving chunk of 2 message(s) for chat: +86 10 690 333 0388
+Saving chunk of 25 message(s) for chat: +86 10099
+Saving chunk of 1 message(s) for chat: +86 1068269716104318
+Saving chunk of 1 message(s) for chat: 10694700351508064531
+Saving chunk of 1 message(s) for chat: 1068462073896851422
+Saving chunk of 1 message(s) for chat: +86 1068278600039601
+Saving chunk of 1 message(s) for chat: 1068138608319288040
+Deleting chat: 10630012000800274320 (skip empty chats was selected)
+Saving chunk of 1 message(s) for chat: +86 10683070909906
+Saving chunk of 25 message(s) for chat: +86 10010
+Saving chunk of 1 message(s) for chat: +86 1068278600039603
+Saving chunk of 1 message(s) for chat: +86 186 8337 4442
+Saving chunk of 1 message(s) for chat: +86 1063001410630022
+Saving chunk of 2 message(s) for chat: +86 10 692 105 0959
+Saving chunk of 1 message(s) for chat: +86 185 8248 9597
+Reloading your contacts...
+Reloading your chats...
+Saving logs to downloads folder...
